@@ -90,7 +90,7 @@ def main():
             if i > limit:
                 break
 
-        with open(f"{group}.json", "w") as f:
+        with open(f"long_wiki_fr/{group}.json", "w") as f:
             for json_obj in data:
                 json.dump(json_obj, f, sort_keys=False, indent=None, ensure_ascii=False)
                 f.write("\n")
