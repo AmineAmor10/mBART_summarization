@@ -1,5 +1,5 @@
 python -m torch.distributed.launch \
---nproc_per_node=8 transformers/examples/seq2seq/custom_run_summarization_mbart50_tokenizer.py \
+--nproc_per_node=8 transformers/examples/seq2seq/final_run_summarization_mbart.py \
 --model_name_or_path facebook/mbart-large-50 \
 --max_target_length 1024 \
 --per_device_train_batch_size 1 \
