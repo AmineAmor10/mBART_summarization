@@ -17,5 +17,10 @@ To run this project, clone the repo and execute the following commands:
 
 ## Citation
 
-\cite{wolf-etal-2020-transformers}
+@inproceedings{plummerCITE2018,
+Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
+Title = {Conditional Image-Text Embedding Networks},
+Booktitle  = {The European Conference on Computer Vision (ECCV)},
+Year = {2018}
+}
 
