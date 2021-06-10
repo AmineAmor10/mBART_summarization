@@ -3,6 +3,7 @@
 ## Description
 
 BART is a denoising auto-encoder that jointly pretrains a bidirectional encoder (similar to BERT) and a forward autoregressive decoder (similar to GPT) by learning to reconstruct a corrupted input sequence. mBART is the multilingual version and was trained on 25 languages.
+
 In this project, mBART is fine-tuned on a summarization dataset, which was generated from wikipedia articles in french. For text generation, some key parameters were amended to improve rouge-scores on wikipedia summaries. More specifically, num_beams = 8, max_length = 1024, min_length = 80 and no_repeat_ngram_size = 3.
 
 This project was built using HuggingFace library.
