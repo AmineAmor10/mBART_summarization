@@ -18,7 +18,7 @@ To run this project, clone the repo and execute the following commands:
 ## Citation
 
 @inproceedings{plummerCITE2018,<br/>
-&nbsp Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},<br/>
+&nbsp; Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},<br/>
   Title = {Conditional Image-Text Embedding Networks},<br/>
   Booktitle  = {The European Conference on Computer Vision (ECCV)},<br/>
   Year = {2018}<br/>
