@@ -6,7 +6,7 @@ BART is a denoising auto-encoder that jointly pretrains a bidirectional encoder 
 
 In this project, mBART is fine-tuned on a summarization dataset, which was generated from wikipedia articles in french. In order to keep "long" summaries, the script "get_wiki_long_fr_data.py" filters out training examples where text_length < 1000 tokens or summary_length < 80 tokens. For text generation, some key parameters were amended to improve rouge-scores on wikipedia summaries. More specifically, num_beams = 8, max_length = 1024, min_length = 80 and no_repeat_ngram_size = 3.
 
-This project was built using HuggingFace library.
+This project was built using HuggingFace's Transformers library.
 
 ## How to run the project
 
