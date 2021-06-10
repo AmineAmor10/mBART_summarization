@@ -41,3 +41,26 @@ To run this project, clone the repo and execute the following commands:
 &nbsp;&nbsp;&nbsp;&nbsp;  bibsource = {dblp computer science bibliography, https://dblp.org}<br/>
 }
 
+
+@article{DBLP:journals/corr/abs-1910-13461,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  author    = {Mike Lewis and
+               Yinhan Liu and
+               Naman Goyal and
+               Marjan Ghazvininejad and
+               Abdelrahman Mohamed and
+               Omer Levy and
+               Veselin Stoyanov and
+               Luke Zettlemoyer},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  title     = {{BART:} Denoising Sequence-to-Sequence Pre-training for Natural Language
+               Generation, Translation, and Comprehension},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  journal   = {CoRR},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  volume    = {abs/1910.13461},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  year      = {2019},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  url       = {http://arxiv.org/abs/1910.13461},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  archivePrefix = {arXiv},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  eprint    = {1910.13461},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  timestamp = {Thu, 31 Oct 2019 14:02:26 +0100},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  biburl    = {https://dblp.org/rec/journals/corr/abs-1910-13461.bib},<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  bibsource = {dblp computer science bibliography, https://dblp.org}<br/>
+}
+
